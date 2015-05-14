@@ -7,7 +7,7 @@ public class No02_StringArrayDemo02 {
 		for(int i = 0; i<juso.length ; i++){
 			System.out.println("주소 : "+ juso[i]);
 		}
-		// 배열 명 +length : 배열의 끝이 나오면 조건문 종료
+		// 배열 명 +length : 배열의 끝이 나오면 조건문을 종료함
 	}
 
 }

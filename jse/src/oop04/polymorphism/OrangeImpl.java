@@ -1,4 +1,4 @@
-package oop02.inhebitance;
+package oop04.polymorphism;
 
 public class OrangeImpl implements FruitInterface{
 

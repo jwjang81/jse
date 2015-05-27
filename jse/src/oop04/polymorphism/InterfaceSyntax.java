@@ -1,4 +1,4 @@
-package oop02.inhebitance;
+package oop04.polymorphism;
 /*
  Date : 2015. 5. 22
  Author : 이재우

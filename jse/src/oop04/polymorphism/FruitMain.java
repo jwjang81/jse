@@ -1,4 +1,5 @@
-package oop02.inhebitance;
+package oop04.polymorphism;
+
 
 public class FruitMain {
 	public static void main(String[] args) {

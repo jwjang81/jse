@@ -1,5 +1,9 @@
 package api01.lang.object;
-
+/*
+ * Date : 2015. 5. 27
+ * Author : 이재우
+ * Desc
+ * */
 public class EqualsDemo2 {
 	public static void main(String[] args) {
 		Person p1 = new Person("800101-1555555");

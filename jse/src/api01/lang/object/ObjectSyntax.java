@@ -1,7 +1,7 @@
 package api01.lang.object;
 /*
- * Date
- * Author
+ * Date : 2015. 5. 27
+ * Author : 이재우
  * Desc
  * */
 /*

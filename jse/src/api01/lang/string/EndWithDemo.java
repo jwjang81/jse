@@ -1,6 +1,6 @@
 package api01.lang.string;
 /*
- * Date : 2015 . 5. 27
+ * Date : 2015. 5. 27
  * Author : 이재우
  * Desc
  * */

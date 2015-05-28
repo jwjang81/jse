@@ -1,4 +1,9 @@
 package api01.lang.object;
+/*
+ * Date : 2015. 5. 27
+ * Author : 이재우
+ * Desc
+ * */
 //import java.lang.*;
 // java.lang.* 는 따로 선언하지 않아도 디폴트로 가지고 있다.
 public class ToStringDemo {

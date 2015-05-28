@@ -1,5 +1,9 @@
 package api01.lang.object;
-
+/*
+ * Date : 2015. 5. 27
+ * Author : 이재우
+ * Desc
+ * */
 public class EqualsDemo {
 	public static void main(String[] args) {
 		Temp t1 = new Temp(10);

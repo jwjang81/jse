@@ -78,7 +78,7 @@ public class MemberServiceImpl implements MemberService {
 		System.out.println("맵에 담긴 ID :" + map.get("id"));
 		
 		//!는 아니라는 뜻
-		if (!map.containsKey("id")) {
+		if (!map.containsKey("id") || !(map.get("id").equals(id)) ) {
 			System.out.println("입력하신 ID는 존재하지 않습니다."
 					+ "다시 입력하세요");
 		}else{

@@ -7,7 +7,7 @@ public class FruitMain {
 		FruitInterface apple = new AppleImpl();
 		FruitInterface orange; //FruitInterface 타입의 참조변수를 선언
 		orange = new OrangeImpl();
-		 // 클래스 OrangeImpl 의 객체를 생성하여 orange 에 할당하였다.
+		    // 클래스 OrangeImpl 의 객체를 생성하여 orange 에 할당하였다.
 		FruitInterface banana = new BananaImpl();
 		apple.display("맛있는 ");
 		orange.display("오래된 ");

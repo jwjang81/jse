@@ -2,7 +2,7 @@ package cmm03.flow;
 
 import java.util.Scanner;
 
-public class No7_ManOrWoman03 {
+public class No07_ManOrWoman03 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		

@@ -1,7 +1,7 @@
 package oop01.syntax;
 /*
- Data
- Author
+ Data : 2015. 5. 18
+ Author : 이재우
  Desc : Method 문법
  * */
 /*
